@@ -15,3 +15,8 @@ install for TON
 ```
 yarn add ton-core ton-crypto @ton-community/func-js --dev
 ```
+
+### TEST
+```
+yarn add @ton-community/sandbox jest ts-jest @types/jest ton  —dev
+```
