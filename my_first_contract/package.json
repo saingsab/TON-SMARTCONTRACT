@@ -20,7 +20,8 @@
   },
   "scripts": {
     "compile": "ts-node ./scripts/compile.ts",
-    "getwallet": "ts-node exercise.ts"
+    "getwallet": "ts-node exercise.ts",
+    "test": "yarn jest"
   },
   "dependencies": {
     "@ton/core": "^0.56.3"
